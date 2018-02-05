@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.matera.quickstart.taki",
+      "sha256_cert_fingerprints": [
+        "0F:91:45:75:D7:6D:67:35:71:D2:B5:A6:7B:72:94:36:D9:2B:6D:F4:B6:6F:A0:DF:CB:34:C2:A1:9E:4E:68:87"
+      ]
+    }
+  }
+]
